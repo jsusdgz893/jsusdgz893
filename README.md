@@ -41,6 +41,14 @@ Aplicación nativa de Android que permite a los estudiantes evaluar a sus profes
 
 **Tech:** `Java` `Kotlin` `Android Studio`
 
+#### 🛰️ [Analizador de Paquetes de Red (Sniffer)](https://github.com/jsusdgz893/Sniffer)
+Aplicación de escritorio con interfaz gráfica para capturar y analizar tráfico de red en tiempo real. Detecta automáticamente la interfaz de red activa e incluye un inspector visual estilo RFC que desglosa campo por campo las cabeceras de cada paquete (Ethernet, IPv4, IPv6, ARP).
+- Captura en vivo en un hilo independiente para no bloquear la interfaz
+- Filtros interactivos por protocolo (TCP, UDP, ICMP, ARP, IPv6, IPv4)
+- Detección automática de IP, MAC, gateway, SSID y MTU de la interfaz activa
+
+**Tech:** `Python` `PyQt6` `Scapy`
+
 ---
 
 ### 💻 Tecnologías y herramientas
